@@ -1,0 +1,413 @@
+﻿body 
+{ 
+    padding-top:150px;
+    background-color:whitesmoke;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+}
+
+
+.tableForm{
+    
+    border:solid 2px darkgray;
+    padding:20px;
+    min-width:300px;
+    
+
+}
+
+.correct
+{
+    background-color:greenyellow;
+}
+
+.wrong
+{
+    background-color:red;
+}
+
+
+.bookingForm td
+{
+    padding-right:50px;
+
+}
+
+btnTable 
+{
+    display:block;
+    float: right;
+    padding: 100px;
+    text-align:right;
+}
+
+.mLeagueTbl
+{
+    border-radius:6px;
+    margin-top:5px;
+    padding-top:10px; 
+    border:none;
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+
+.mLeagueTbl td {
+     
+    padding: 4px;
+    padding-left:5px;
+    padding-right:5px; 
+    border: solid 3px black;
+    border-bottom:none;
+    border-left:none;
+    border-right:none;
+    font-size: 16px;
+    
+}
+
+.mLeagueTbl th { 
+    padding: 4px; 
+    border-bottom:none;    
+    font-size: 14px;
+    border:none;
+}
+
+
+@media only screen and (max-width:480px)
+{
+    .bookingForm td
+    {
+    padding-right:0px;
+
+    }
+}
+
+.bookingCal td
+{
+    padding-right:0;
+}
+
+
+.googleMapText{
+    text-align:right;
+}
+
+@media only screen and (max-width:1200px)
+{
+    .googleMapText
+    {
+        text-align:left;
+    }
+}
+
+
+
+.googleMap
+{
+    width:300px;
+    height:300px;
+    float:right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (max-width:1200px)
+{
+    .googleMap
+    {
+        float:left;
+
+    }
+}
+
+
+
+
+.navbar-default
+{
+    background-color:#058600;
+    padding:5px 0px 5px 5px;
+    margin:0;
+    border-bottom-color:navy;
+    border-bottom-width:thick;
+    border-top-color:navy;
+    border-top-width:medium;
+
+
+}
+
+
+.newsimg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    Width: 250px; 
+    Height: 250px;
+}
+
+
+.mLeagueTable
+{
+    background:linear-gradient(rgba(5, 134, 0, 0.59),rgba(255,0,0,0));
+    border-radius:6px;
+    margin-top:5px;
+    padding-top:10px; 
+    border:none;
+    margin-left:auto;
+    margin-right:auto;
+
+
+}
+
+.mLeagueTable td {
+     
+    padding: 4px;
+    padding-left:5px;
+    padding-right:5px; 
+    border: solid 3px black;
+    border-bottom:none;
+    border-left:none;
+    border-right:none;
+    font-size: 16px;
+    
+}
+
+.mLeagueTable th { 
+    padding: 4px; 
+    border-bottom:none;    
+    font-size: 14px;
+    border:none;
+}
+
+.mLeagueTableBadge
+{
+    height:30px;
+    width:30px;
+
+}
+
+@media only screen and (max-width:992px)
+{
+    .mLeagueTable
+    {
+        margin-top:50px;
+
+    }
+}
+
+.pageno span {
+    color:darkgray;
+}
+
+.pageno td {
+
+   padding:5px 10px 0px 10px;
+  
+}
+
+.ListTeams
+{
+    text-align:center;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h3
+{
+    font-size:18px;
+    text-align:center;
+}
+
+h2
+{
+    font-size:24px;
+    text-align:center;
+}
+
+@media only screen and (max-width:480px) {
+    h2 
+    {
+        font-size: 18px;
+    }
+}
+
+.crest
+{
+    
+    height:150px;
+    width:150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+@media only screen and (max-width:480px) {
+   .crest
+    {
+        height:75px;
+        width:75px;
+    }
+}
+
+.profilepic
+{
+    
+    height:250px;
+    width:250px;
+    margin-top:75px;
+    margin-bottom:75px;
+    float:right;
+    
+}
+
+@media only screen and (max-width:992px)
+{
+    .profilepic
+    {
+        height:150px;
+        width:150px;
+        float:none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+}
+
+@media only screen and (max-width:480px) {
+
+    .profilepic
+    {
+        margin-top:25px;
+        margin-bottom:25px;
+
+    }
+}
+
+@media only screen and (max-width:480px) {
+
+    .mydatagrid .header .rows
+    {
+        font-size:10px;
+
+    }
+}
+
+
+.navbar-default .navbar-text
+{
+    
+    font-size:28px;
+    color:white;
+    font-weight:700;
+    padding-right:100px;
+}
+
+.navbar-default .navbar-nav > li 
+{
+    padding: 40px 0px 0 0;
+
+}
+
+@media only screen and (max-width:760px) {
+   .navbar-default .navbar-nav > li
+    {
+        padding: 5px;
+        width: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width:480px) {
+   .navbar-default .navbar-nav > li
+    {
+        padding: 5px;
+        width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.navbar-default .navbar-nav > li > a 
+{
+    text-decoration:none;
+    font-size:16px;
+    margin:0 5px;
+    font-weight:500;
+    padding:7px 10px;
+    border-radius:4px;
+    background-color:whitesmoke;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav >.active > a:hover
+{
+    background-color:navy;
+    color:whitesmoke;
+}
+
+.navbar-default .navbar-nav >.active > a
+{
+    background-color:navy;
+    color:whitesmoke;
+    
+}
+
+.Dashboard
+{
+    visibility:hidden
+}
+
+
+.dashicon
+{
+    font-size:3em;
+    padding-top:5px;
+    
+}
+
+caption
+{
+    font-size:12px;
+}
+
+@media only screen and (max-width:480px) {
+.dashicon
+    {
+        font-size:2em;       
+    }
+
+}
+
+
+.caption
+{
+    font-size:20px;
+}
+
+
+@media only screen and (max-width:480px) {
+.caption
+    {
+        font-size:15px;        
+    }
+}
+
+
+#wrapper {width:500px; height:300px; position:relative;}
+.float {background-color:black; height:300px; margin:0; padding:0; color:white;}
+.left {background-color:blue; position:fixed; width:400px;}
+.right {float:right; width:100px;}
+
+.wrapper {width:500px; height:300px; position:relative;}
+.float {background-color:black; height:300px; margin:0; padding:0; color:white;}
+.left {background-color:blue; position:fixed; width:400px;}
+.right {float:right; width:100px;}

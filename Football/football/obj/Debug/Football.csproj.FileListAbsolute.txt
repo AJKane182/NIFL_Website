@@ -1,0 +1,363 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\ApplicationInsights.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\csc.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\vbc.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\VBCSCompiler.exe
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Football.dll.config
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Football.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Football.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.Web.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.Web.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\obj\Debug\Football.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Football\Football\obj\Debug\Football.pdb
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\ApplicationInsights.config
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\csc.exe
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\vbc.exe
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Football.dll.config
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Football.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Football.pdb
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\obj\Debug\Football.dll
+C:\Users\rquinn\Documents\Visual Studio 2015\Projects\Football\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\Football\obj\Debug\Football.pdb
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\ApplicationInsights.config
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\csc.exe
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\vbc.exe
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Football.dll.config
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Football.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Football.pdb
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Quinn\Downloads\Football\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\Quinn\Downloads\Football\Football\Football\obj\Debug\Football.dll
+C:\Users\Quinn\Downloads\Football\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football\Football\obj\Debug\Football.pdb
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\ApplicationInsights.config
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\csc.exe
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\vbc.exe
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Football.dll.config
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Football.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Football.pdb
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\obj\Debug\Football.dll
+C:\Users\RQuinn\Desktop\Kane\Football (2)\Football\Football\obj\Debug\Football.pdb
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\ApplicationInsights.config
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\csc.exe
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\vbc.exe
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Football.dll.config
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Football.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Football.pdb
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\obj\Debug\Football.dll
+C:\Users\RQuinn\Desktop\Kane\Football (1)\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (2)\Football (2)\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\Football\Football\obj\Debug\Football.pdb
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\ApplicationInsights.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\csc.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\vbc.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Football.dll.config
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Football.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Football.pdb
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.Web.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.Web.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\obj\Debug\Football.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\obj\Debug\Football.dll
+C:\Users\HP-PC\Desktop\Uni\Final Year Project\Football (3)\NIFL_Website\Football\Football\obj\Debug\Football.pdb
